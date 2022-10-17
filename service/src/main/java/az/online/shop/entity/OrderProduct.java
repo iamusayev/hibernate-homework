@@ -39,3 +39,4 @@ public class OrderProduct extends BaseEntity<Integer> {
         this.product.getOrderProducts().add(this);
     }
 }
+
