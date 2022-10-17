@@ -20,3 +20,4 @@ public class CustomerRepository extends RepositoryBase<Integer, Customer> {
                 .getResultList();
     }
 }
+

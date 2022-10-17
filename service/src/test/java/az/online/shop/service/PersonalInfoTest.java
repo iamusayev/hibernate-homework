@@ -41,6 +41,4 @@ public class PersonalInfoTest {
         Optional<PersonalInfoReadDto> actualResult = personalInfoService.getById(Integer.MAX_VALUE);
         Assertions.assertThat(actualResult).isEmpty();
     }
-
-
 }

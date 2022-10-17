@@ -24,5 +24,4 @@ public class OrderService {
         List<Order> orders = orderRepository.findAllByStatus(status);
         return orderReadMapper.mapFrom(orders);
     }
-
 }

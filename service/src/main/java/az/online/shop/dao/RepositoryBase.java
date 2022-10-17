@@ -52,4 +52,3 @@ public abstract class RepositoryBase<K extends Serializable, E> implements Dao<K
                 .getResultList();
     }
 }
-

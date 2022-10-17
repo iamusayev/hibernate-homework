@@ -17,3 +17,4 @@ public class OrderRepository extends RepositoryBase<Integer, Order> {
                 .getResultList();
     }
 }
+

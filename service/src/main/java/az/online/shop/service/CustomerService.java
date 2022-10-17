@@ -45,6 +45,4 @@ public class CustomerService {
         maybeCustomer.ifPresent(customer -> customerRepository.delete(customer.getId()));
         return maybeCustomer.isPresent();
     }
-
-
 }

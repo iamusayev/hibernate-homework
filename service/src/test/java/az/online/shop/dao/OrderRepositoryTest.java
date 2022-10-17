@@ -43,6 +43,4 @@ class OrderRepositoryTest {
                 LocalDate.of(2022, 6, 7), LocalDate.of(2022, 6, 7), LocalDate.of(2021, 5, 6), LocalDate.of(2022, 6, 7));
 
     }
-
-
 }

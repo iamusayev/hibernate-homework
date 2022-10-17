@@ -22,3 +22,4 @@
         <mapping class="az.online.shop.entity.OrderProduct"/>
     </session-factory>
 </hibernate-configuration>
+
