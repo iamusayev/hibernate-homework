@@ -23,3 +23,4 @@ public interface Dao<K extends Serializable, E> {
 
     List<E> findAll();
 }
+

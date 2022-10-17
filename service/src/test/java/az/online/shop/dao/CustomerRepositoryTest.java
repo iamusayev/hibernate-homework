@@ -52,3 +52,4 @@ class CustomerRepositoryTest {
         assertThat(names).containsExactlyInAnyOrder("Findlay", "Cleveland");
     }
 }
+
